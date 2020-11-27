@@ -85,7 +85,20 @@ font-size:2em;
 
 .audio{
 	text-align:center;
+
 }
 
 
+.cont{
+align-items: center;
+text-align: center;
+margin-top: 10px;
 
+}
+
+.nomeredes{
+text-align: right;
+font-size: 20px;
+margin-top: -12em;
+margin-right: 50em;
+}
